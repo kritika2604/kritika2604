@@ -1,11 +1,14 @@
-### Hi there 👋Welcome to my git hub page!! ⭐️😎⭐️
+### Hi there 👋Glad to see you on my git hub page!! ⭐️🤩⭐️
 
-You can visit my repos for viewing my projects done so far. 
+You can visit my repos 📜 for viewing my projects done so far. 
 
 - 🌱 I’m currently learning data analytics, cloud computing and data visualization skills and tools. 
-- 📫 Know me more: My linkedIn page is [here](https://www.linkedin.com/in/kritika-chawla/)
+- 📫 Know me more: Add me to your linkedIn network from [here](https://www.linkedin.com/in/kritika-chawla/) 
+- 👾 Outside of GitHub, catch me for a quick best of 3 in the badminton 🏸 court! / Talk to me about the crochet project I am on / Ask about the latest book 📚 I am reading
 
 🚧 Meanwhile I am developing more skills and projects which will be shared in this space very soon!
+
+Till then have a nice day 🌻
 
 
 
